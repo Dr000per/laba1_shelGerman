@@ -15,7 +15,7 @@ public class main extends Application {
 
         Scene scene = new Scene(loader.load(), 600, 300);
 
-        stage.setTitle("Конвертер рабочего времени");
+        stage.setTitle("Конверер рабочего времени");
         stage.setScene(scene);
         stage.show();
     }
